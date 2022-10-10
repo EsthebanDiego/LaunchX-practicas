@@ -1,8 +1,8 @@
 # ABOGABOT PROYECT DESIGN
 
-**1.** [Overview](#overview)
-**2.** [Summary](#summary)
-**3.** [Flow Chart](#flow-chart)
+- [Overview](#overview)
+- [Summary](#summary)
+- [Flow Chart](#flow-chart)
 
 ## Overview
 

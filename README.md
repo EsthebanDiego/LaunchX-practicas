@@ -4,6 +4,7 @@
 [**Project Abogabot**](#project-abogabot)
 
 - [About](#about)
+- [Requirements](#requirements)
 
 ## Overview
 
@@ -31,3 +32,7 @@ A lawyer's firm wants to automate the demand request creation of their cliensts,
 - The web page must be responsive to be able to see from a cell phone.
 
 - The client prefers the colors blue and white for the page.
+
+## Practices
+
+**1.** [Intro](./01.Intro)

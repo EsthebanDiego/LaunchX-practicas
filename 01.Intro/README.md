@@ -3,6 +3,8 @@
 - [Overview](#overview)
 - [Summary](#summary)
 - [Flow Chart](#flow-chart)
+- [Buyer Persona](#buyer-persona)
+- [Target Audiences](#target-audiences)
 
 ## Overview
 
@@ -21,3 +23,11 @@
 ## Flow Chart
 
 ![Flow Chart of the Process](./flow_chart_Abogabot.png)
+
+## Buyer Persona
+
+![Buyer Persona](./Buyer%20Persona.png)
+
+## Target Audiences
+
+![Target Audiences](./Target%20Audiences.jpg)

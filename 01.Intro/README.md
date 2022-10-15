@@ -46,3 +46,13 @@ _The target Audiences was created using [Miro](https://www.twitch.tv/videos/1623
 ![Wireframe](./Abogabot%20wireframe.png)
 
 _The Wireframe was created using [Excalidraw](https://excalidraw.com/) file ➡ [HERE](Abogabot%20wireframe.excalidraw)_
+
+## Mockup UI
+
+![Mockup Figma](./Abogabot%20mockup.png)
+
+## Mockup Flow
+
+![Mockup Figma flow](./Abogabot%20mockup-flow_prototype.png)
+
+_The Mockup was created using [Figma](https://www.figma.com/) file [HERE](./Abogabot.fig)_

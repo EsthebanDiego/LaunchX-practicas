@@ -5,6 +5,7 @@
 
 - [About](#about)
 - [Requirements](#requirements)
+- [Practices](#practices)
 
 ## Overview
 

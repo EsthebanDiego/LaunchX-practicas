@@ -36,3 +36,10 @@ A lawyer's firm wants to automate the demand request creation of their cliensts,
 ## Practices
 
 **1.** [Intro](./01.Intro)
+
+- Overview
+- Summary
+- Flow Chart
+- Buyer Persona
+- Target Audiences
+- Wireframe UX

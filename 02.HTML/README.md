@@ -6,7 +6,7 @@
 
 ## Overview
 
-- **Project name:** Bakery Patissiere
+- **Project name:** Pasteleria Gloria
 - **Requirement:** Create an HTML Layout
 
 ## Summary
@@ -19,9 +19,9 @@
 ### Customer Side
 
 - Create a Brand for the bakery with the logo and the slogan of the branding
-- The customer needs to see the different flavors along with their price
+- The customer should be able to see the different flavors along with their price
 - The customer should be able to add more flavors to the cake, depending on their own preferences
-- The customer needs to see the different cake toppers along with their price
+- The customer should be able to see the different cake toppers along with their price
 - The customer should be able to add more cake toppers, depending on their own preferences
 - The order should be filled within a form
 - The form must have:

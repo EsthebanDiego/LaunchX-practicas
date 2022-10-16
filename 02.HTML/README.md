@@ -37,9 +37,14 @@
   - The available cake toppers
 - The baker should be able to see a table in which is show the customer's orders
 
-## Footer
+### Footer
 
 - Must include:
   - Address
   - Phone
   - Business Hours
+
+## HTML files
+
+- [Customer Side](./main.html)
+- [Baker Side](baker.html)

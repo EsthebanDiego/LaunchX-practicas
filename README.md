@@ -6,7 +6,7 @@ Launch X is a learning experience for **LATAM,** created by **MICROSOFT** to for
 In the `FrontEnd Mission` we will see the following technologies:
 
 - [UI / UX Design](./01.Intro/)
-- [HTML]
+- [HTML](./02.HTML/)
 
 ## FrontEnd Mission - Practices
 
@@ -23,3 +23,5 @@ In the `FrontEnd Mission` we will see the following technologies:
 
 - Overview
 - Summary
+- Requirements
+- HTML files

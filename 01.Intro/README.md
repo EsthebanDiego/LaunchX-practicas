@@ -2,6 +2,7 @@
 
 - [Overview](#overview)
 - [Summary](#summary)
+- [Requirements](#requirements)
 - [Flow Chart](#flow-chart)
 - [Buyer Persona](#buyer-persona)
 - [Target Audiences](#target-audiences)
@@ -14,14 +15,30 @@
 
 ## Summary
 
-- **Requirement description**
+- **About the project**
   - Create a web page in which the client is able to create a demand by filling out a form and a payment from the web itself.
 
   - The Admin must be able to see the payments of the customer and then create a case that will be updated at every step of the legal process.
 
   - The customer should be able to login to their account, and they must be able to see the status of their legal process.
 
-  - ### [Requirements doc](./1.-Requerimientos.doc)
+## Requirements
+
+- The client fills out a form, and once filled the client will be redirected to the payment process.
+
+- For the following of the demand, the client needs to login to their account and should be able to see the following of every update of the legal process.
+
+- The Admin receives the notification of new demand and with the data filled in the formulary it's created a word document for the start of the legal process.
+
+- The Admin receives the payment and it should be able to see the total amount of the payment in a dashboard.
+
+- The Admin updates the status of the demand and adds comments at every step of the process.
+
+- The web page must be responsive to be able to see from a cell phone.
+
+- The client prefers the colors blue and white for the page.
+
+- ### [Requirements doc](./1.-Requerimientos.doc)
 
 ## Flow Chart
 
